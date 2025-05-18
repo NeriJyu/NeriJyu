@@ -148,7 +148,7 @@ My name is Gustavo Neri Santos, I am 23 years old and I am from São Paulo, Braz
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriJyu&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeriJyu&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=30" 
   />
 
 </p>
