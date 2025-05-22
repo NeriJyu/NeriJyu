@@ -15,7 +15,7 @@ My name is Gustavo Neri Santos, I am 23 years old and I am from São Paulo, Braz
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/TypeORM-E34F26?style=for-the-badge"/> <img src="https://img.shields.io/badge/Mongoose-CC2927?style=for-the-badge"/>
 
 - Message-Queueing:<br>
-       <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+                            <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 
 - Infrastructure & Cloud:<br>
 <img src="https://img.shields.io/badge/Docker-52B0E7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Kubernetes-3982CE?style=for-the-badge"/> <img src="https://img.shields.io/badge/ArgoCD-E34F26?style=for-the-badge"/>
