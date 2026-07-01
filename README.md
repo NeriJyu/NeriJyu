@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-Hi there! 👋 I'm Gustavo Neri Santos, a Pleno Backend Developer based in São Paulo, Brazil. I hold a degree in Systems Analysis and Development from FIAP, where I am also currently pursuing a Bachelor's degree in Software Engineering (expected graduation in 2028). 
+Hi there! 👋 I'm Gustavo Neri Santos, a Backend Developer based in São Paulo, Brazil. I hold a degree in Systems Analysis and Development from FIAP, where I am also currently pursuing a Bachelor's degree in Software Engineering (expected graduation in 2028). 
 
 With a strong foundation in full-stack concepts and a primary focus on backend architecture, I build robust, scalable applications using Node.js, TypeScript, and complex relational/NoSQL databases. I am passionate about clean code, continuous learning, and tackling complex technical challenges in cloud environments.
 
