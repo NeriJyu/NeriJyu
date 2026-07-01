@@ -1,6 +1,6 @@
 # 🧑🏽‍💻 Gustavo Neri
 
-**`Pleno Backend Developer`**
+**`Backend Developer`**
 
 Hi there! 👋 I'm Gustavo Neri Santos, a Pleno Backend Developer based in São Paulo, Brazil. I hold a degree in Systems Analysis and Development from FIAP, where I am also currently pursuing a Bachelor's degree in Software Engineering (expected graduation in 2028). 
 
